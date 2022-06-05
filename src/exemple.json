@@ -1,0 +1,64 @@
+{
+  "chips": [
+    {
+      "color": "blue",
+      "text": "лаб."
+    },
+    {
+      "color": "green",
+      "text": "1 п/г"
+    }
+  ],
+  "discipline": {
+    "startTime": "14:00",
+    "endTime": "15:35",
+    "startTs": 1653476400,
+    "endTs": 1653482100,
+    "number": 4,
+    "name": "Символьные вычисления",
+    "subname": "(с видеотрансляцией)",
+    "divider": false
+  },
+
+  "cardSubHeader": [
+    {
+      "icon": "teacher-icon",
+      "text": "Трубицына Диана Игоревна (ст.пр.)"
+    },
+    {
+      "icon": "location-icon",
+      "text": "ауд. 4-7-1 Учебный корпус №15"
+    }
+  ],
+
+  "cardPromt": [
+    {
+      "icon": "teacher-promt-icon",
+      "text": "1112. Институт инженерных и цифровых технологий 11120004. Кафедра математического и программного обеспечения информационных систем"
+    },
+    {
+      "icon": "location-promt-icon",
+      "text": "г. Белгород, ул. Победы, 85"
+    }
+  ],
+
+  "buttons": [
+    {
+      "href": "/t/123",
+      "hint": "Переход к расписанию преподавателя",
+      "active": true
+    },
+    {
+      "icon": "location-button-icon",
+      "href": "/a/123",
+      "hint": "Переход к расписанию аудитории",
+      "active": true
+    }
+  ],
+  "courses": [
+    {
+      "name": "В курс",
+      "href": "https://pegas.bsu.edu.ru/course/view.php?id=12558"
+    }
+  ]
+}
